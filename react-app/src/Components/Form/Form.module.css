@@ -1,0 +1,18 @@
+.form {
+  height: 100vh;
+  background-color: rgb(111, 89, 89);
+  color: rgb(242, 242, 204);
+  display: flex;
+  flex-direction: column;
+  padding: 5rem;
+}
+
+.form input, .form textarea {
+  max-width: 80%;
+  background-color: rgb(242, 242, 204);
+}
+
+.form button {
+  margin-top: 3rem;
+  max-width: 20%;
+}

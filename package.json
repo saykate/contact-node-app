@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  }
+}
